@@ -1,6 +1,0 @@
-{
-  "devDependencies": {
-    "@types/node": "20.11.28",
-    "prettier": "3.2.5"
-  }
-}
