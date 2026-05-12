@@ -4,8 +4,8 @@ Resources for getting a job along with my resume. Feel free to copy my resume st
 
 ## Links
 
-- [Article on salary negotiation][salaray-negotiation]
+- [Article on salary negotiation][salary-negotiation]
 - [AlgoMonster][algo-monster], structured preparation for algorithm interview questions
 
-[salaray-negotiation]: https://www.kalzumeus.com/2012/01/23/salary-negotiation/
+[salary-negotiation]: https://www.kalzumeus.com/2012/01/23/salary-negotiation/
 [algo-monster]: https://algo.monster/
